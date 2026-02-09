@@ -1,4 +1,5 @@
 ﻿using MvcCoreEF.Data;
+using MvcCoreEF.Models;
 
 namespace MvcCoreEF.Repositories
 {
